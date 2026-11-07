@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Browser Automation & Profiles (Contains user session cookies, credentials & tokens)
+data/browser_profile/
+data/operator_chrome_profile/
+data/*.db
+data/*.pid
+data/*.lock
+
+# Application generated media & history cache
+downloads/*
+!downloads/.gitkeep
+ready_to_post/*
+!ready_to_post/.gitkeep
+posted/*
+!posted/.gitkeep
+history/*
+!history/.gitkeep
+temp/*
+!temp/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.token
+
+# IDEs & OS artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db

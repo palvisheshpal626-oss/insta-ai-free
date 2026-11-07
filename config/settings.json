@@ -1,0 +1,30 @@
+{
+    "max_reels_per_day": 1,
+    "schedule_time_hhmm": "08:27",
+    "auto_publish_enabled": true,
+    "duplicate_prevention_days": 30,
+    "target_video_duration_seconds": 10,
+    "preferred_language": "English",
+    "topic_categories": [
+        "Trending Bollywood & Indian Songs",
+        "Indian Modern Fashion & Western Outfits",
+        "Trending Dance Reels & Choreography",
+        "Contemporary Fusion & Co-Ord Sets",
+        "Indian Street Style & Casuals"
+    ],
+    "caption_style": "Vibrant, stylish Indian fashion & dance Reel caption with trending audio credits and relevant hashtags",
+    "browser_headless": false,
+    "chrome_executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "target_google_account": "palvisheshpal292@gmail.com",
+    "operator_profile_dir": "E:\\insta post ai\\data\\operator_chrome_profile",
+    "remote_debugging_port": 9222,
+    "chatgpt_conversation_url": "https://chatgpt.com/g/g-p-6ad4d211b748819196b6cd4d39285240-ai-instagram/c/6ad4d21e-d484-83ee-b9c3-953e67f0c525",
+    "chatgpt_model_hint": "auto",
+    "gemini_url": "https://gemini.google.com/",
+    "instagram_publishing_method": "browser",
+    "instagram_target_account": "aitrending.dance",
+    "instagram_api_access_token": null,
+    "instagram_business_account_id": null,
+    "ffmpeg_path": null,
+    "ffprobe_path": null
+}
